@@ -1,0 +1,6 @@
+In laravel 8 project run following commands to install vue.js
+
+ - run composer require laravel/ui
+ - Install Vue php artisan ui vue
+ - Install Vue with auth php artisan ui vue --auth
+ - run npm install && npm run dev
